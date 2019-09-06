@@ -1,0 +1,6 @@
+{ "ApplicationId": "Mobile", 
+"OTPDuration": 300,
+"OTPLength": 6, 
+"OTPContentType": "integer",
+"OTPIdentifier": "103980480AFFS", 
+"MaxValidation": 3}
