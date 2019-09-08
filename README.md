@@ -12,4 +12,9 @@ apt-get install python3
 
 pip install tinydb
 
+# Sample Payloads
+This service has 3 operations: create, validate, and use. 
 
+# create OTP
+This service is provided to create time based OTP. See sample payload below:
+  
